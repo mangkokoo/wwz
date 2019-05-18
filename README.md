@@ -1,2 +1,5 @@
 # wwz
-a lorem
+- [ ] lorem
+- [x] ipsum
+- [ ] dolor
+- [x] sit
